@@ -4,7 +4,7 @@ SEOTitle: 橘子的博客 | Orange Blog
 header-img: img/post-bg-desk.jpg
 email: jie@gmail.com
 description: "Every failure is leading towards success."
-keyword: "Orange, Orange Blog, 橘子的博客, Orange, 卖橘子咯, iOS, Apple, iPhone"
+keyword: "Orange, Orange Blog, 橘子的博客, Orange, 卖橘子咯, 安全, 渗透"
 url: "http://hujieuse.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/hujieuse/hujieuse.github.io.git" # you code repository
@@ -98,17 +98,17 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+#    {
+#        title: "WY",
+#        href: "http://zhengwuyang.com"
+#    },{
+#        title: "简书·BY",
+#        href: "http://www.jianshu.com/u/e71990ada2fd"
+#    },{
+#        title: "Apple",
+#        href: "https://apple.com"
+#    },{
+#        title: "Apple Developer",
+#        href: "https://developer.apple.com/"
+#    }
 ]
