@@ -11,7 +11,7 @@ github_repo: "https://github.com/hujieuse/hujieuse.github.io.git" # you code rep
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "Stay hungry, stay foolish."
 sidebar-avatar: /img/22.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
